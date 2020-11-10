@@ -1,0 +1,39 @@
+button {
+    background-color: #888;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    float: right;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+  }
+
+ 
+.checked {
+    background: #888;
+    color: #fff;
+    text-decoration: line-through;
+    
+  }
+  
+
+
+li {
+    list-style-type: none;
+    background: lightgray;
+    font-size: 12px;
+    width : 50%;
+    transition: 0.2s;
+    /* margin: 0; */
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    padding: 10px 20px;
+}
+
+
+
+
